@@ -3,6 +3,7 @@
 A responsive React application that allows users to calculate monthly loan payments, total payable amount, and total interest based on loan amount, interest rate, and loan duration. Built using **React**, **Formik** for form handling, and **Tailwind CSS** for styling.
 
 ---
+
 ## 🚀 Live Demo
 
 Check out the live version here:  
